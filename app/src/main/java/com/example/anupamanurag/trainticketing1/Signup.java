@@ -23,7 +23,7 @@ public class Signup extends AppCompatActivity {
         e1=(EditText)findViewById(R.id.editText3);
         e2=(EditText)findViewById(R.id.editText4);
         e3=(EditText)findViewById(R.id.editText5);
-        b1=(Button)findViewById(R.id.button4);
+       // b1=(Button)findViewById(R.id.button4);
 
         b1.setOnClickListener(new View.OnClickListener() {
 
