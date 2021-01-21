@@ -1,0 +1,641 @@
+:Monkey: seed=1611349568098 count=2000
+:AllowPackage: com.example.anupamanurag.trainticketing1
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 25.0%
+//   7: 15.0%
+//   8: 2.0%
+//   9: 2.0%
+//   10: 1.0%
+//   11: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(518.0,1241.0)
+:Sending Touch (ACTION_UP): 0:(522.3229,1249.0332)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(47.0,777.0)
+:Sending Touch (ACTION_UP): 0:(50.784946,791.0064)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(286.0,574.0)
+:Sending Touch (ACTION_UP): 0:(305.97534,564.15216)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(194.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(195.47131,1170.839)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    //[calendar_time:2021-01-20 23:47:49.696  system_uptime:922088396]
+    // Sending event #100
+    //[calendar_time:2021-01-20 23:47:49.699  system_uptime:922088399]
+    // Sending event #100
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(367.0,1011.0)
+:Sending Touch (ACTION_UP): 0:(348.58124,1012.2249)
+:Sending Touch (ACTION_DOWN): 0:(677.0,357.0)
+:Sending Touch (ACTION_UP): 0:(685.55457,298.0204)
+:Sending Touch (ACTION_DOWN): 0:(212.0,216.0)
+:Sending Touch (ACTION_UP): 0:(212.02296,214.37242)
+:Sending Touch (ACTION_DOWN): 0:(705.0,880.0)
+:Sending Touch (ACTION_UP): 0:(696.5122,906.4987)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(142.0,491.0)
+:Sending Touch (ACTION_UP): 0:(148.63753,480.76898)
+:Sending Touch (ACTION_DOWN): 0:(522.0,389.0)
+:Sending Touch (ACTION_UP): 0:(519.2147,280.5602)
+:Sending Touch (ACTION_DOWN): 0:(126.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(136.45833,1154.3341)
+    //[calendar_time:2021-01-20 23:47:50.236  system_uptime:922088936]
+    // Sending event #200
+    //[calendar_time:2021-01-20 23:47:50.237  system_uptime:922088936]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(395.0,783.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_UP): 0:(381.30954,828.7208)
+:Sending Touch (ACTION_DOWN): 0:(136.0,335.0)
+:Sending Touch (ACTION_UP): 0:(137.03198,320.47226)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    // activityResuming(com.whatsapp)
+    // Rejecting resume of package com.whatsapp
+:Sending Touch (ACTION_DOWN): 0:(336.0,860.0)
+:Sending Touch (ACTION_UP): 0:(267.9429,780.0698)
+:Sending Touch (ACTION_DOWN): 0:(637.0,474.0)
+:Sending Touch (ACTION_UP): 0:(631.8025,469.90796)
+:Sending Touch (ACTION_DOWN): 0:(405.0,970.0)
+:Sending Touch (ACTION_UP): 0:(405.3065,984.1142)
+:Sending Touch (ACTION_DOWN): 0:(260.0,99.0)
+:Sending Touch (ACTION_UP): 0:(237.14854,11.968922)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(301.0,219.0)
+:Sending Touch (ACTION_UP): 0:(302.14514,212.22072)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    //[calendar_time:2021-01-20 23:47:50.595  system_uptime:922089295]
+    // Sending event #300
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(444.0,398.0)
+:Sending Touch (ACTION_UP): 0:(446.87567,415.71808)
+:Sending Touch (ACTION_DOWN): 0:(483.0,805.0)
+:Sending Touch (ACTION_UP): 0:(484.84473,804.4948)
+:Sending Touch (ACTION_DOWN): 0:(601.0,158.0)
+:Sending Touch (ACTION_UP): 0:(600.174,169.1129)
+:Sending Touch (ACTION_DOWN): 0:(580.0,696.0)
+:Sending Touch (ACTION_UP): 0:(556.7596,722.0071)
+:Sending Touch (ACTION_DOWN): 0:(616.0,76.0)
+:Sending Touch (ACTION_UP): 0:(629.9482,130.43893)
+:Sending Touch (ACTION_DOWN): 0:(336.0,784.0)
+:Sending Touch (ACTION_UP): 0:(334.14172,776.4639)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(594.0,611.0)
+:Sending Touch (ACTION_UP): 0:(582.0583,611.86597)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(187.0,331.0)
+:Sending Touch (ACTION_UP): 0:(181.72649,346.14548)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(388.0,859.0)
+    //[calendar_time:2021-01-20 23:47:50.766  system_uptime:922089466]
+    // Sending event #400
+:Sending Touch (ACTION_UP): 0:(385.25665,845.6835)
+:Sending Touch (ACTION_DOWN): 0:(710.0,44.0)
+:Sending Touch (ACTION_UP): 0:(711.32,39.4396)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(211.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(207.52368,1209.2322)
+:Sending Touch (ACTION_DOWN): 0:(239.0,464.0)
+:Sending Touch (ACTION_UP): 0:(247.42842,411.4294)
+:Sending Touch (ACTION_DOWN): 0:(11.0,30.0)
+:Sending Touch (ACTION_UP): 0:(31.645067,54.48162)
+:Sending Touch (ACTION_DOWN): 0:(215.0,759.0)
+:Sending Touch (ACTION_UP): 0:(163.86664,781.4322)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(332.0,261.0)
+:Sending Touch (ACTION_UP): 0:(322.9593,255.81137)
+:Sending Touch (ACTION_DOWN): 0:(333.0,117.0)
+:Sending Touch (ACTION_UP): 0:(348.48367,206.47006)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+    //[calendar_time:2021-01-20 23:47:50.959  system_uptime:922089659]
+    // Sending event #500
+    //[calendar_time:2021-01-20 23:47:50.960  system_uptime:922089659]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(292.0,1080.0)
+:Sending Touch (ACTION_UP): 0:(292.34616,1074.4641)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(630.0,863.0)
+:Sending Touch (ACTION_UP): 0:(605.17224,864.26276)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(10.0,276.0)
+:Sending Touch (ACTION_UP): 0:(0.0,314.40018)
+:Sending Touch (ACTION_DOWN): 0:(397.0,1214.0)
+:Sending Touch (ACTION_UP): 0:(384.49805,1236.1617)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(236.0,416.0)
+:Sending Touch (ACTION_UP): 0:(231.23433,414.75922)
+:Sending Touch (ACTION_DOWN): 0:(313.0,539.0)
+:Sending Touch (ACTION_UP): 0:(321.16354,546.71497)
+:Sending Touch (ACTION_DOWN): 0:(682.0,180.0)
+:Sending Touch (ACTION_UP): 0:(695.5905,183.53033)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(562.0,1097.0)
+:Sending Touch (ACTION_UP): 0:(561.708,1093.4124)
+:Sending Touch (ACTION_DOWN): 0:(676.0,541.0)
+:Sending Touch (ACTION_UP): 0:(720.0,419.05353)
+    //[calendar_time:2021-01-20 23:47:51.248  system_uptime:922089948]
+    // Sending event #600
+:Sending Touch (ACTION_DOWN): 0:(118.0,666.0)
+:Sending Touch (ACTION_UP): 0:(101.51882,658.6)
+:Sending Touch (ACTION_DOWN): 0:(342.0,81.0)
+:Sending Touch (ACTION_UP): 0:(321.62402,140.06099)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.DevelopmentSettings } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.DevelopmentSettings } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(375.0,454.0)
+:Sending Touch (ACTION_UP): 0:(400.58475,442.82852)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(3.0,939.0)
+:Sending Touch (ACTION_UP): 0:(7.360502,931.7415)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(631.0,215.0)
+:Sending Touch (ACTION_UP): 0:(633.9068,182.60106)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(208.0,244.0)
+:Sending Touch (ACTION_UP): 0:(193.70483,242.0036)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2021-01-20 23:47:51.588  system_uptime:922090288]
+    // Sending event #700
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(216.0,523.0)
+:Sending Touch (ACTION_UP): 0:(249.42747,584.35986)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(281.0,829.0)
+:Sending Touch (ACTION_UP): 0:(278.30612,828.6202)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(442.0,948.0)
+:Sending Touch (ACTION_UP): 0:(569.06616,923.6912)
+:Sending Touch (ACTION_DOWN): 0:(525.0,416.0)
+:Sending Touch (ACTION_UP): 0:(524.5436,419.78973)
+:Sending Touch (ACTION_DOWN): 0:(99.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(101.317375,1012.02576)
+:Sending Touch (ACTION_DOWN): 0:(157.0,42.0)
+:Sending Touch (ACTION_UP): 0:(159.25975,42.30591)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(455.0,810.0)
+    //[calendar_time:2021-01-20 23:47:51.867  system_uptime:922090567]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(482.81656,825.9846)
+:Sending Touch (ACTION_DOWN): 0:(528.0,360.0)
+:Sending Touch (ACTION_UP): 0:(526.80664,358.80197)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(372.0,651.0)
+:Sending Touch (ACTION_UP): 0:(362.9083,771.6266)
+:Sending Touch (ACTION_DOWN): 0:(566.0,385.0)
+:Sending Touch (ACTION_UP): 0:(619.40204,283.78876)
+:Sending Touch (ACTION_DOWN): 0:(145.0,1060.0)
+:Sending Touch (ACTION_UP): 0:(134.33165,1051.959)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(638.0,1022.0)
+:Sending Touch (ACTION_UP): 0:(642.7464,1018.2974)
+:Sending Touch (ACTION_DOWN): 0:(79.0,503.0)
+:Sending Touch (ACTION_UP): 0:(46.80268,499.83054)
+    // Allowing start of Intent { cmp=com.example.anupamanurag.trainticketing1/.MainActivity } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { cmp=com.example.anupamanurag.trainticketing1/.MainActivity } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(82.0,1201.0)
+:Sending Touch (ACTION_UP): 0:(81.43676,1200.8114)
+    // activityResuming(com.example.anupamanurag.trainticketing1)
+:Sending Touch (ACTION_DOWN): 0:(230.0,55.0)
+:Sending Touch (ACTION_UP): 0:(233.60558,54.780674)
+:Sending Touch (ACTION_DOWN): 0:(687.0,364.0)
+:Sending Touch (ACTION_UP): 0:(687.883,386.39807)
+:Sending Touch (ACTION_DOWN): 0:(94.0,1170.0)
+:Sending Touch (ACTION_UP): 0:(90.98875,1169.3254)
+:Sending Touch (ACTION_DOWN): 0:(581.0,880.0)
+:Sending Touch (ACTION_UP): 0:(583.46686,892.70856)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(11.0,278.0)
+    //[calendar_time:2021-01-20 23:47:52.812  system_uptime:922091512]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(19.320518,277.58975)
+:Sending Touch (ACTION_DOWN): 0:(131.0,1236.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_UP): 0:(126.21152,1239.2418)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Allowing start of Intent { cmp=com.example.anupamanurag.trainticketing1/.Signup } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { cmp=com.example.anupamanurag.trainticketing1/.Signup } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(36.0,279.0)
+:Sending Touch (ACTION_UP): 0:(17.244429,272.83353)
+:Sending Touch (ACTION_DOWN): 0:(686.0,939.0)
+:Sending Touch (ACTION_UP): 0:(720.0,875.4508)
+// CRASH: com.example.anupamanurag.trainticketing1 (pid 3919)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+// Build Label: Xiaomi/land/land:6.0.1/MMB29M/V10.2.2.0.MALMIXM:user/release-keys
+// Build Changelist: V10.2.2.0.MALMIXM
+// Build Time: 1556013812000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.anupamanurag.trainticketing1/com.example.anupamanurag.trainticketing1.Signup}: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2485)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2545)
+// 	at android.app.ActivityThread.access$1100(ActivityThread.java:151)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1396)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:157)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5601)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:774)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:652)
+// Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+// 	at com.example.anupamanurag.trainticketing1.Signup.onCreate(Signup.java:28)
+// 	at android.app.Activity.performCreate(Activity.java:6355)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1108)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2438)
+// 	... 9 more
+// 
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(117.0,435.0)
+:Sending Touch (ACTION_UP): 0:(102.774765,437.20892)
+:Sending Touch (ACTION_DOWN): 0:(157.0,177.0)
+:Sending Touch (ACTION_UP): 0:(149.7614,176.27547)
+:Sending Touch (ACTION_DOWN): 0:(526.0,897.0)
+:Sending Touch (ACTION_UP): 0:(535.77966,896.6861)
+:Sending Touch (ACTION_DOWN): 0:(509.0,901.0)
+:Sending Touch (ACTION_UP): 0:(500.93506,900.4649)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN pkg=com.android.calendar cmp=com.android.calendar/.homepage.AllInOneActivity } in package com.android.calendar
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN pkg=com.android.calendar cmp=com.android.calendar/.homepage.AllInOneActivity } in package com.android.calendar
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.deviceinfo.UsbModeChooserActivity } in package com.android.settings
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+// CRASH: com.example.anupamanurag.trainticketing1 (pid 4370)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+// Build Label: Xiaomi/land/land:6.0.1/MMB29M/V10.2.2.0.MALMIXM:user/release-keys
+// Build Changelist: V10.2.2.0.MALMIXM
+// Build Time: 1556013812000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.anupamanurag.trainticketing1/com.example.anupamanurag.trainticketing1.Signup}: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2485)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2545)
+// 	at android.app.ActivityThread.access$1100(ActivityThread.java:151)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1396)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:157)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5601)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:774)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:652)
+// Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+// 	at com.example.anupamanurag.trainticketing1.Signup.onCreate(Signup.java:28)
+// 	at android.app.Activity.performCreate(Activity.java:6355)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1108)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2438)
+// 	... 9 more
+// 
+// CRASH: com.example.anupamanurag.trainticketing1 (pid 4414)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+// Build Label: Xiaomi/land/land:6.0.1/MMB29M/V10.2.2.0.MALMIXM:user/release-keys
+// Build Changelist: V10.2.2.0.MALMIXM
+// Build Time: 1556013812000
+// java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.anupamanurag.trainticketing1/com.example.anupamanurag.trainticketing1.Signup}: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2485)
+// 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2545)
+// 	at android.app.ActivityThread.access$1100(ActivityThread.java:151)
+// 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1396)
+// 	at android.os.Handler.dispatchMessage(Handler.java:102)
+// 	at android.os.Looper.loop(Looper.java:157)
+// 	at android.app.ActivityThread.main(ActivityThread.java:5601)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:774)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:652)
+// Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Button.setOnClickListener(android.view.View$OnClickListener)' on a null object reference
+// 	at com.example.anupamanurag.trainticketing1.Signup.onCreate(Signup.java:28)
+// 	at android.app.Activity.performCreate(Activity.java:6355)
+// 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1108)
+// 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2438)
+// 	... 9 more
+// 
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2021-01-20 23:47:54.542  system_uptime:922093241]
+    // Sending event #1000
+    //[calendar_time:2021-01-20 23:47:54.542  system_uptime:922093242]
+    // Sending event #1000
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(161.0,162.0)
+:Sending Touch (ACTION_UP): 0:(173.61694,158.20934)
+:Sending Touch (ACTION_DOWN): 0:(257.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(254.38596,1068.7117)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(312.0,242.0)
+:Sending Touch (ACTION_UP): 0:(310.11188,244.3861)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(157.0,119.0)
+:Sending Touch (ACTION_UP): 0:(125.36293,112.33687)
+    // activityResuming(com.whatsapp)
+    // Rejecting resume of package com.whatsapp
+:Sending Touch (ACTION_DOWN): 0:(312.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(353.59702,1110.3362)
+:Sending Touch (ACTION_DOWN): 0:(404.0,163.0)
+:Sending Touch (ACTION_UP): 0:(377.83167,132.98367)
+    // activityResuming(com.whatsapp)
+    // Rejecting resume of package com.whatsapp
+:Sending Touch (ACTION_DOWN): 0:(369.0,730.0)
+    //[calendar_time:2021-01-20 23:47:56.524  system_uptime:922095224]
+    // Sending event #1100
+:Sending Touch (ACTION_UP): 0:(382.35794,677.3334)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(293.0,447.0)
+:Sending Touch (ACTION_UP): 0:(256.00784,445.19244)
+:Sending Touch (ACTION_DOWN): 0:(462.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(449.80933,1150.4694)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(13.0,748.0)
+:Sending Touch (ACTION_UP): 0:(18.19615,743.83685)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(576.0,46.0)
+:Sending Touch (ACTION_UP): 0:(569.12115,44.1068)
+:Sending Touch (ACTION_DOWN): 0:(551.0,147.0)
+:Sending Touch (ACTION_UP): 0:(550.97546,149.68442)
+:Sending Touch (ACTION_DOWN): 0:(30.0,842.0)
+:Sending Touch (ACTION_UP): 0:(17.627644,841.78546)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2021-01-20 23:47:56.632  system_uptime:922095332]
+    // Sending event #1200
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(527.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(514.2109,1190.6241)
+:Sending Touch (ACTION_DOWN): 0:(129.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(217.41972,1189.0228)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(106.0,914.0)
+:Sending Touch (ACTION_UP): 0:(103.314445,928.0435)
+:Sending Touch (ACTION_DOWN): 0:(351.0,127.0)
+:Sending Touch (ACTION_UP): 0:(365.53818,130.90027)
+:Sending Touch (ACTION_DOWN): 0:(643.0,803.0)
+:Sending Touch (ACTION_UP): 0:(644.1414,806.66656)
+:Sending Touch (ACTION_DOWN): 0:(652.0,75.0)
+:Sending Touch (ACTION_UP): 0:(653.2531,74.75586)
+:Sending Touch (ACTION_DOWN): 0:(102.0,313.0)
+:Sending Touch (ACTION_UP): 0:(192.27711,327.11942)
+:Sending Touch (ACTION_DOWN): 0:(346.0,680.0)
+:Sending Touch (ACTION_UP): 0:(307.06085,730.3252)
+:Sending Touch (ACTION_DOWN): 0:(46.0,1116.0)
+:Sending Touch (ACTION_UP): 0:(43.40238,1117.0602)
+:Sending Touch (ACTION_DOWN): 0:(238.0,848.0)
+:Sending Touch (ACTION_UP): 0:(159.82065,819.6128)
+    //[calendar_time:2021-01-20 23:47:56.806  system_uptime:922095506]
+    // Sending event #1300
+    //[calendar_time:2021-01-20 23:47:56.807  system_uptime:922095506]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(177.0,719.0)
+:Sending Touch (ACTION_UP): 0:(174.73494,714.3781)
+:Sending Touch (ACTION_DOWN): 0:(70.0,1117.0)
+:Sending Touch (ACTION_UP): 0:(66.43103,1107.8942)
+:Sending Touch (ACTION_DOWN): 0:(489.0,1172.0)
+:Sending Touch (ACTION_UP): 0:(471.05502,1178.7434)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(384.0,759.0)
+:Sending Touch (ACTION_UP): 0:(382.69904,784.4464)
+:Sending Touch (ACTION_DOWN): 0:(320.0,497.0)
+:Sending Touch (ACTION_UP): 0:(302.5564,494.47015)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // activityResuming(com.whatsapp)
+    // Rejecting resume of package com.whatsapp
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(605.0,620.0)
+:Sending Touch (ACTION_UP): 0:(603.7135,631.0062)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(231.0,454.0)
+:Sending Touch (ACTION_UP): 0:(229.82495,445.7538)
+:Sending Touch (ACTION_DOWN): 0:(535.0,754.0)
+:Sending Touch (ACTION_UP): 0:(480.4909,731.26196)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2021-01-20 23:47:57.010  system_uptime:922095710]
+    // Sending event #1400
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(209.0,1272.0)
+:Sending Touch (ACTION_UP): 0:(209.08565,1280.0)
+:Sending Touch (ACTION_DOWN): 0:(628.0,600.0)
+:Sending Touch (ACTION_UP): 0:(627.8577,599.2451)
+:Sending Touch (ACTION_DOWN): 0:(270.0,1249.0)
+:Sending Touch (ACTION_UP): 0:(208.1309,1240.0376)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(484.0,1221.0)
+:Sending Touch (ACTION_UP): 0:(483.9664,1214.9811)
+:Sending Touch (ACTION_DOWN): 0:(210.0,403.0)
+:Sending Touch (ACTION_UP): 0:(209.7942,406.39554)
+:Sending Touch (ACTION_DOWN): 0:(468.0,783.0)
+:Sending Touch (ACTION_UP): 0:(467.9725,766.91626)
+    // activityResuming(com.whatsapp)
+    // Rejecting resume of package com.whatsapp
+:Sending Touch (ACTION_DOWN): 0:(468.0,73.0)
+:Sending Touch (ACTION_UP): 0:(432.6609,86.20286)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(631.0,678.0)
+:Sending Touch (ACTION_UP): 0:(617.4829,668.36224)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    //[calendar_time:2021-01-20 23:47:57.357  system_uptime:922096057]
+    // Sending event #1500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(512.0,278.0)
+:Sending Touch (ACTION_UP): 0:(510.12573,288.81488)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(529.0,787.0)
+:Sending Touch (ACTION_UP): 0:(519.43884,738.5558)
+:Sending Touch (ACTION_DOWN): 0:(324.0,242.0)
+:Sending Touch (ACTION_UP): 0:(315.97137,209.77592)
+:Sending Touch (ACTION_DOWN): 0:(107.0,1015.0)
+:Sending Touch (ACTION_UP): 0:(105.25598,1020.7185)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2021-01-20 23:47:57.579  system_uptime:922096278]
+    // Sending event #1600
+    //[calendar_time:2021-01-20 23:47:57.579  system_uptime:922096278]
+    // Sending event #1600
+:Sending Touch (ACTION_DOWN): 0:(292.0,540.0)
+:Sending Touch (ACTION_UP): 0:(306.26218,522.63983)
+:Sending Touch (ACTION_DOWN): 0:(650.0,338.0)
+:Sending Touch (ACTION_UP): 0:(660.6245,340.0706)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(270.0,13.0)
+:Sending Touch (ACTION_UP): 0:(276.27136,16.035606)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(550.0,575.0)
+:Sending Touch (ACTION_UP): 0:(539.38025,580.95233)
+:Sending Touch (ACTION_DOWN): 0:(112.0,630.0)
+:Sending Touch (ACTION_UP): 0:(110.55013,627.97485)
+:Sending Touch (ACTION_DOWN): 0:(517.0,659.0)
+:Sending Touch (ACTION_UP): 0:(517.1259,660.44977)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(682.0,1229.0)
+:Sending Touch (ACTION_UP): 0:(682.2217,1232.6305)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    // Rejecting start of Intent { cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2021-01-20 23:47:57.782  system_uptime:922096481]
+    // Sending event #1700
+    //[calendar_time:2021-01-20 23:47:57.783  system_uptime:922096482]
+    // Sending event #1700
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(127.0,1183.0)
+:Sending Touch (ACTION_UP): 0:(126.75831,1174.8052)
+:Sending Touch (ACTION_DOWN): 0:(348.0,1136.0)
+:Sending Touch (ACTION_UP): 0:(337.63065,1134.9735)
+:Sending Touch (ACTION_DOWN): 0:(710.0,68.0)
+:Sending Touch (ACTION_UP): 0:(707.0254,61.582863)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(663.0,31.0)
+:Sending Touch (ACTION_UP): 0:(656.5311,23.835087)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+:Sending Touch (ACTION_DOWN): 0:(198.0,363.0)
+:Sending Touch (ACTION_UP): 0:(120.40777,382.1633)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(422.0,264.0)
+    //[calendar_time:2021-01-20 23:47:57.953  system_uptime:922096653]
+    // Sending event #1800
+:Sending Touch (ACTION_UP): 0:(471.0296,286.53088)
+:Sending Touch (ACTION_DOWN): 0:(210.0,1008.0)
+:Sending Touch (ACTION_UP): 0:(208.46419,1011.5261)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.IOException: write failed: EINVAL (Invalid argument)
+    // Injection Failed
+    // activityResuming(com.whatsapp)
+    // Rejecting resume of package com.whatsapp
+:Sending Touch (ACTION_DOWN): 0:(275.0,845.0)
+:Sending Touch (ACTION_UP): 0:(197.17915,899.5128)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(253.0,91.0)
+:Sending Touch (ACTION_UP): 0:(282.29535,124.698296)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(196.0,850.0)
+:Sending Touch (ACTION_UP): 0:(203.52737,849.7846)
+:Sending Touch (ACTION_DOWN): 0:(234.0,3.0)
+    //[calendar_time:2021-01-20 23:47:58.124  system_uptime:922096824]
+    // Sending event #1900
+:Sending Touch (ACTION_UP): 0:(240.80946,65.167656)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(398.0,802.0)
+:Sending Touch (ACTION_UP): 0:(410.65063,828.5479)
+:Sending Touch (ACTION_DOWN): 0:(311.0,472.0)
+:Sending Touch (ACTION_UP): 0:(322.84897,477.39453)
+:Sending Touch (ACTION_DOWN): 0:(154.0,224.0)
+:Sending Touch (ACTION_UP): 0:(25.652512,151.5232)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.DevelopmentSettings } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.DevelopmentSettings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(131.0,1005.0)
+:Sending Touch (ACTION_UP): 0:(139.72624,1011.73755)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.example.anupamanurag.trainticketing1/.Splash;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.anupamanurag.trainticketing1/.Splash } in package com.example.anupamanurag.trainticketing1
+Events injected: 2000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=3 pointers=0 trackballs=0 flips=7 rotations=0
+## Network stats: elapsed time=12095ms (0ms mobile, 0ms wifi, 12095ms not connected)
+// Monkey finished
